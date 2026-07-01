@@ -1,0 +1,211 @@
+================================================================
+NARUTO ONLINE QUIZ ASSISTANT – ANSWERS & TRACKING (File 3B)
+================================================================
+Last Updated: 2026-07-01
+Total Tracked: 505 (A: 200, B: 200, C: 105)
+----------------------------------------------------------------
+ID | Status | Candidate Answer | Confirmed Answer | Wrong Guesses | Choices | Date Added | Date Confirmed | Last Attempted | Attempts | Notes
+----------------------------------------------------------------
+Q_201 | Candidate | Hanzo Salamander |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch (split)
+Q_202 | Candidate | Elder Chiyo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_203 | Candidate | Asuma |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_204 | Candidate | Shisui Uchiha |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_205 | Candidate | Ao |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_206 | Candidate | Arena |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_207 | Candidate | Zetsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_208 | Candidate | Sasori |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_209 | Candidate | Breeze Dancer |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_210 | Skipped | Level 60 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 2 | From 500-batch
+Q_211 | Candidate | Level 28 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_212 | Candidate | Level 30 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_213 | Candidate | Level 30 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_214 | Candidate | Third Raikage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_215 | Candidate | Second Tsuchikage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_216 | Candidate | Reanimation Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_217 | Candidate | Kurenai |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_218 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_219 | Candidate | Land of Charge |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_220 | Candidate | Hot Topics |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_221 | Candidate | Character |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_222 | Candidate | Strengthen |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_223 | Candidate | Second Hokage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_224 | Candidate | Sound Four |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_225 | Candidate | Tree Binding Death |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_226 | Candidate | Fifth |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_227 | Candidate | Frog Kata |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_228 | Candidate | Right Eye |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_229 | Candidate | Primary Lotus |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_230 | Candidate | Rinnegan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_231 | Candidate | Acupuncture |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_232 | Candidate | Coins |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_233 | Candidate | Yamanaka |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_234 | Candidate | Nara Clan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_235 | Candidate | Uzumaki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_236 | Candidate | Hyuga |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_237 | Candidate | The Tale of the Utterly Gutsy Shinobi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_238 | Candidate | Wind and Water Style |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_239 | Candidate | Naruto Uzamaki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_240 | Candidate | Ryuuichi Cave |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_241 | Candidate | Team Instances |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_242 | Candidate | Arena |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_243 | Candidate | Instances |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_244 | Candidate | Dan Kato |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_245 | Candidate | First Hokage's Necklace |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_246 | Candidate | Asuma Sarutobi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_247 | Candidate | Itachi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_248 | Candidate | Kill a Certain Man |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_249 | Candidate | Paralysis |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_250 | Candidate | Toad |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_251 | Candidate | Battle with Haku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_252 | Candidate | Zabuza |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_253 | Candidate | Fat |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_254 | Candidate | Beheading Sword |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_255 | Confirmed | Bow | Bow |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_256 | Candidate | Genin |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_257 | Candidate | Sexy Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_258 | Candidate | Harem Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_259 | Candidate | Tadpole |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_260 | Candidate | Hidden Sound |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_261 | Candidate | Hidden Mist |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_262 | Candidate | Secret Red Move -- Performance of a Hundred |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_263 | Candidate | Jonin |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_264 | Candidate | Shadow Clone Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_265 | Candidate | Akatsuki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_266 | Candidate | Wood Style -- Row Houses Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_267 | Candidate | Almighty Push |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_268 | Candidate | Human Boulder Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_269 | Candidate | Kill a Partner |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_270 | Candidate | Awakening Materials |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_271 | Candidate | Watering from Friends |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_272 | Candidate | Medical Ninja |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_273 | Candidate | Plot Instance |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_274 | Candidate | Pig |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_275 | Candidate | Medical Ninjutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_276 | Candidate | Sealing Jutsu -- Reaper Death Seal |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_277 | Candidate | Planetary Devastation |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_278 | Candidate | Grand Sand Mausoleum seal |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_279 | Candidate | Curse Unsealing |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_280 | Candidate | Ninja Fragments |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_281 | Candidate | Hokage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_282 | Candidate | Battle Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_283 | Candidate | Beheading Sword |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_284 | Candidate | White Snake |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_285 | Candidate | 3600 Coupons |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_286 | Candidate | Yellow Flash of the Leaf |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_287 | Candidate | Kage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_288 | Candidate | One Against 10000 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_289 | Candidate | Sword of Kusanagi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_290 | Candidate | Clam |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_291 | Candidate | Toad |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_292 | Candidate | Wood Style |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_293 | Candidate | Bracken Dance |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_294 | Candidate | Planet Rasengan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_295 | Candidate | Heaven Kick |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_296 | Candidate | A Line |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_297 | Candidate | Brothers |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_298 | Candidate | Brother |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_299 | Candidate | 588 Ingots |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_300 | Candidate | Root |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_301 | Candidate | Blade of Wind |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_302 | Confirmed | Onoki | Onoki |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_303 | Candidate | Shuukaku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_304 | Candidate | Akamaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_305 | Candidate | Karura |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_306 | Candidate | Scarlet Blaze |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_307 | Candidate | Striking Shadow Snakes |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_308 | Candidate | Ino-Shika-Cho |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_309 | Candidate | Konohamaru Trio |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_310 | Candidate | Hashirama Senju |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_311 | Candidate | Kurama |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_312 | Candidate | Ninja Art -- Needle Senbon |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_313 | Candidate | 10 Rounds |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_314 | Candidate | 7 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_315 | Candidate | Level 10 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_316 | Confirmed | Sharingan | Sharingan |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_317 | Candidate | Hari jigoku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_318 | Candidate | Sage art : Inorganic reanimation |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_319 | Candidate | To increase Power |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_320 | Candidate | To increase Power |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_321 | Candidate | Buy Summon's fragments |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_322 | Candidate | To increase Power |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_323 | Candidate | Ay |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_324 | Candidate | Multiple Shadow Clone |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_325 | Candidate | Project "Tsuki no Me" |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_326 | Candidate | Gedo Statue |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_327 | Candidate | Level 100 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_328 | Candidate | 10 times |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_329 | Confirmed | Yellow | Yellow |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_330 | Candidate | Red |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_331 | Candidate | Yellow |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_332 | Candidate | Silver |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_333 | Candidate | Earth |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_334 | Candidate | Naruto Bridge |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_335 | Confirmed | Acupuncture | Acupuncture |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_336 | Candidate | Sharingan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_337 | Candidate | Increase his Level |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_338 | Candidate | Ramen |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_339 | Candidate | Ichiraku Ramen |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_340 | Candidate | Becoming Hokage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_341 | Candidate | Senjutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_342 | Candidate | Dead Last |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_343 | Candidate | Hiruko |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_344 | Candidate | Sand Shield |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_345 | Candidate | Kazekage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_346 | Confirmed | Wings | Wings |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_347 | Candidate | Sand |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_348 | Candidate | Group Contributions |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_349 | Candidate | Upgrading Materials |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_350 | Candidate | Hiramekarei |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_351 | Candidate | Occupation |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_352 | Candidate | Initiative |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_353 | Candidate | Demonic Illusion: Hell Viewing Technique |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_354 | Candidate | Fourth |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_355 | Candidate | Physical Prowess |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_356 | Candidate | Kamui |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_357 | Candidate | Large Iron Fan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_358 | Candidate | Bugs |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_359 | Candidate | Second Level of Heaven's Curse Mark |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_360 | Candidate | Wings |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_361 | Candidate | Ino-Pig |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_362 | Candidate | His Body |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_363 | Candidate | Fine Arts |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_364 | Candidate | Puppets |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_365 | Candidate | Gourd |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_366 | Candidate | Multiple Shadow Clone |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_367 | Candidate | Nine Tails' Chakra |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_368 | Candidate | Ignition |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_369 | Candidate | Coins |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_370 | Candidate | Land of Water |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_371 | Candidate | Red |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_372 | Candidate | White |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_373 | Candidate | Blue |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_374 | Candidate | Uzumaki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_375 | Candidate | Aburame Clan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_376 | Candidate | Golden Cudgel |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_377 | Candidate | Sandstorms |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_378 | Candidate | Make-Out Paradise |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_379 | Confirmed | Challenge the Main Character and Win | Challenge the Main Character and Win |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_380 | Candidate | Taijutsu, Genjutsu and Ninjutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_381 | Candidate | 9 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_382 | Candidate | Eye |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_383 | Confirmed | Hidden Rain | Hidden Rain |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_384 | Candidate | Earth Style |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_385 | Candidate | Yamato |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_386 | Candidate | Fourth |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_387 | Candidate | Fourth |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_388 | Candidate | Practices Really Hard |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_389 | Candidate | Cultivation Runes |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_390 | Candidate | Hidden Sand |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_391 | Candidate | Gentle Fist |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_392 | Candidate | Monday |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_393 | Candidate | Tobi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_394 | Candidate | An Orphan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_395 | Candidate | Levels 1-4 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_396 | Candidate | Friends |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_397 | Candidate | Gyuki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_398 | Candidate | Ninja Exam |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_399 | Candidate | Sage World Battlefields |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_400 | Candidate | Group |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+================================================================
+END OF FILE 3B
+================================================================

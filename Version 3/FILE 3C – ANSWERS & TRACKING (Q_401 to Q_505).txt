@@ -1,0 +1,116 @@
+================================================================
+NARUTO ONLINE QUIZ ASSISTANT – ANSWERS & TRACKING (File 3C)
+================================================================
+Last Updated: 2026-07-01
+Total Tracked: 505 (A: 200, B: 200, C: 105)
+----------------------------------------------------------------
+ID | Status | Candidate Answer | Confirmed Answer | Wrong Guesses | Choices | Date Added | Date Confirmed | Last Attempted | Attempts | Notes
+----------------------------------------------------------------
+Q_401 | Candidate | Character |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_402 | Candidate | Survival Trial |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_403 | Candidate | Sage World Battlefields |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_404 | Candidate | Level 50 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_405 | Candidate | Character |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_406 | Candidate | Character |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_407 | Candidate | Character |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_408 | Candidate | Character |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_409 | Candidate | 2 Seal Scrolls |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_410 | Candidate | Gaara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_411 | Candidate | Asuma [Wind Blade] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_412 | Candidate | Hinata |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_413 | Candidate | 2 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_414 | Candidate | 3 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_415 | Candidate | 5 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_416 | Candidate | Make-Out Paradise novels |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_417 | Candidate | Konohamaru [Konohamaru Corps] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_418 | Candidate | No. |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_419 | Candidate | Ninja World Gods |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_420 | Candidate | 3 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_421 | Confirmed | To Participate in a Chase attack | To Participate in a Chase attack |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_422 | Candidate | Kisame |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_423 | Candidate | Kakuzu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_424 | Candidate | Unlimited times |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_425 | Candidate | Chiyo's |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_426 | Candidate | Stamina |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_427 | Candidate | Stamina |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_428 | Candidate | Shikamaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_429 | Candidate | As the Main Character's level increases, new |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_430 | Candidate | 12 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_431 | Candidate | 12 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_432 | Candidate | 10 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_433 | Candidate | 100 Coupons |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_434 | Candidate | 20 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_435 | Candidate | 40 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_436 | Candidate | 60 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_437 | Candidate | 40 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_438 | Candidate | 80 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_439 | Candidate | 20 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_440 | Candidate | 100 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_441 | Confirmed | 0 Chakra Points | 0 Chakra Points |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_442 | Candidate | 100 Chakra Points |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_443 | Candidate | 2 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_444 | Candidate | 7 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_445 | Candidate | 9 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_446 | Candidate | 4 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_447 | Candidate | 1 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_448 | Candidate | 2 times |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_449 | Candidate | 2x |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_450 | Candidate | 2 times |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_451 | Candidate | 8 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_452 | Candidate | 3 Summons |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_453 | Candidate | 3 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_454 | Candidate | 1 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_455 | Candidate | 12 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_456 | Candidate | 24 hours |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_457 | Candidate | 5 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_458 | Candidate | 50 Contributions |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_459 | Candidate | 3 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_460 | Candidate | 12 Checkpoints |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_461 | Candidate | 10 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_462 | Confirmed | 1 | 1 |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_463 | Candidate | 6 Attributes |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_464 | Candidate | 5 minutes |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_465 | Candidate | 30 minutes |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_466 | Candidate | 24 hours |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_467 | Candidate | Using Puppets |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_468 | Candidate | Completing Missions |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_469 | Candidate | By Awakening |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_470 | Candidate | Upgrading Equipment |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_471 | Candidate | By synthesizing with other Ninja Tools |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_472 | Candidate | Team Instances |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_473 | Candidate | By Clearing Instances |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_474 | Candidate | Ninja Task Room |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_475 | Candidate | Character and Ninja |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_476 | Candidate | Ninja Fragments |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_477 | Candidate | Point System |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_478 | Candidate | Kirin |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_479 | Candidate | Kiba |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_480 | Candidate | Curse Sealing |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_481 | Candidate | Food Pills |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_482 | Candidate | Revival Potion |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_483 | Candidate | Play Tricks |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_484 | Candidate | 100 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_485 | Confirmed | Ino | Ino |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_486 | Candidate | Yes. |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_487 | Candidate | Only Blue and Purple summons |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_488 | Candidate | Ninja fragments, Items and Coupons |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_489 | Candidate | Reanimation Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_490 | Candidate | 12:00 and 18:00 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_491 | Candidate | 0 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [BUGGED] 1/3 chance
+Q_492 | Candidate | Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_493 | Candidate | 12 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_494 | Candidate | 4 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_495 | Candidate | 4 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_496 | Candidate | 3 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_497 | Candidate | Mount Myoboku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_498 | Candidate | Shikamaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_499 | Candidate | Sai |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_500 | Candidate | Hebi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_501 | Candidate | 0 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_502 | Confirmed | Quick | Quick |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | New – Initiative Rune
+Q_503 | Confirmed | Tsunade | Tsunade |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | New – Giant Katsuyu
+Q_504 | Confirmed | Ninja | Ninja |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | New – Mood refresh screen
+Q_505 | Wrong | Purification Runes |  | Purification Runes | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | New – Cannot buy with Coupons
+================================================================
+END OF FILE 3C
+================================================================

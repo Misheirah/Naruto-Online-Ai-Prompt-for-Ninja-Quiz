@@ -1,0 +1,211 @@
+================================================================
+NARUTO ONLINE QUIZ ASSISTANT – ANSWERS & TRACKING (File 3A)
+================================================================
+Last Updated: 2026-07-01
+Total Tracked: 505 (A: 200, B: 200, C: 105)
+----------------------------------------------------------------
+ID | Status | Candidate Answer | Confirmed Answer | Wrong Guesses | Choices | Date Added | Date Confirmed | Last Attempted | Attempts | Notes
+----------------------------------------------------------------
+Q_001 | Candidate | Ao |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_002 | Candidate | The Nine Tails |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_003 | Candidate | Ino |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_004 | Candidate | Third Hokage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_005 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_006 | Candidate | Haku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_007 | Candidate | Sasori |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_008 | Candidate | Jiraiya |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_009 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_010 | Candidate | Minato |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_011 | Candidate | Iruka |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_012 | Candidate | Choji Akimichi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_013 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_014 | Candidate | Hanzo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_015 | Candidate | Itachi Uchiha |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_016 | Candidate | Orochimaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_017 | Candidate | Itachi Uchiha |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_018 | Candidate | Pain |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_019 | Candidate | Sakumo Hatake |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_020 | Candidate | Kurenai |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_021 | Candidate | Neji Hyuga |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_022 | Candidate | Enma |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_023 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_024 | Candidate | Ebisu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_025 | Candidate | Jiraiya |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_026 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_027 | Candidate | Asuma |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_028 | Candidate | Chojuro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_029 | Confirmed | Temari | Temari |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_030 | Candidate | Temari |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_031 | Candidate | Kankuro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_032 | Candidate | Deidara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_033 | Candidate | Kushina Uzumaki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_034 | Candidate | Tsume Inuzuka |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_035 | Candidate | Sasuke Uchiha |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_036 | Candidate | Ibiki Morino |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_037 | Candidate | Might Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_038 | Candidate | Asuma Sarutobi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_039 | Candidate | Baki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_040 | Candidate | Rock Lee |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_041 | Candidate | Elder Chiyo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_042 | Candidate | Konohamaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_043 | Candidate | Kurotsuchi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_044 | Candidate | Tsunade |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_045 | Candidate | Tsunade |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_046 | Candidate | Naruto |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_047 | Candidate | Mizuki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_048 | Candidate | Minato Namikaze |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_049 | Candidate | Fugaku Uchiha |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_050 | Candidate | Butsuma Senju |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_051 | Candidate | Raikage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_052 | Confirmed | Izuna Uchiha | Izuna Uchiha |  | Not recorded | 2026-07-01 | 2026-07-01 | 2026-07-01 | 1 | From 500-batch
+Q_053 | Candidate | Jiraiya |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_054 | Candidate | Tsunade |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_055 | Candidate | Danzo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_056 | Candidate | Camwomaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_057 | Candidate | Gamabunta |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_058 | Candidate | Orochimaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_059 | Candidate | Bipolar Jugo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_060 | Candidate | Naruto |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_061 | Candidate | Might Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_062 | Candidate | Minato Namikaze |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_063 | Candidate | Rock Lee |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_064 | Candidate | Karin |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_065 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_066 | Candidate | Sakura Haruno |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_067 | Candidate | Naruto |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_068 | Candidate | Obito |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_069 | Candidate | Naruto |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_070 | Candidate | Tsunade |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_071 | Candidate | Sasuke |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_072 | Candidate | Danzo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_073 | Candidate | Iruka |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_074 | Candidate | Shino Aburame |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_075 | Candidate | Lee |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_076 | Candidate | Naruto |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_077 | Candidate | Kurenai Yuuhi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_078 | Candidate | Hashirama and Madara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_079 | Candidate | Sasuke |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_080 | Candidate | Tobirama Senju |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_081 | Candidate | Sasuke |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_082 | Candidate | Kabuto |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_083 | Candidate | Tobirama Senju |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_084 | Candidate | Second Hokage |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_085 | Candidate | Sai |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_086 | Candidate | Shikamaru Nara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_087 | Candidate | Choji Akimichi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_088 | Candidate | Tenten |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_089 | Candidate | Kakashi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_090 | Candidate | Jiraiya |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_091 | Candidate | Rasengan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_092 | Candidate | Elite Instances |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_093 | Candidate | Kakuzu and Hidan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_094 | Candidate | Rinnegan and Sharingan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_095 | Candidate | Gamakichi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_096 | Candidate | Team 7 |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_097 | Candidate | Four Tails |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_098 | Candidate | Five Tails |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_099 | Candidate | One Tail |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_100 | Candidate | Nine Tails |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_101 | Candidate | Katsuyu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_102 | Candidate | Enma |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_103 | Candidate | Shark |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_104 | Candidate | First Son |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_105 | Candidate | Second Son |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_106 | Candidate | Iruka |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_107 | Candidate | Chikushodo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_108 | Candidate | Ningendo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_109 | Candidate | Tendo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_110 | Candidate | Gakido |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_111 | Candidate | Akatsuki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_112 | Candidate | Root |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_113 | Candidate | Ninja Art -- Shuriken Shadow Clone Jutsu |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_114 | Candidate | Tsunade |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_115 | Candidate | Zabuza Momochi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_116 | Candidate | Gifting Roses |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_117 | Candidate | Shino |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_118 | Candidate | Chidori |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_119 | Candidate | Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Guy.
+Q_120 | Candidate | Kiba |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Kiba.
+Q_121 | Candidate | Sasuke |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Sasuke.
+Q_122 | Candidate | Shino |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Shino.
+Q_123 | Candidate | Sasuke |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Sasuke.
+Q_124 | Candidate | Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Guy.
+Q_125 | Candidate | Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Guy.
+Q_126 | Candidate | Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | [ELITE] Website claims Guy.
+Q_127 | Candidate | Naruto [Nine Tails Chakra] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_128 | Candidate | Kimimaro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_129 | Candidate | Temari |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_130 | Candidate | Temari |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_131 | Candidate | Haku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_132 | Candidate | Jiraiya |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_133 | Candidate | Kidomaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_134 | Candidate | Kankuro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_135 | Candidate | Zabuza [Mist's Seven Swordsmen] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_136 | Candidate | Sakura Haruno |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_137 | Candidate | Sasuke |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_138 | Candidate | Tobi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_139 | Candidate | Kidomaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_140 | Candidate | Deidara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_141 | Candidate | Shizune |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_142 | Candidate | Guy |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_143 | Candidate | Orochimaru [Great Ninja War] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_144 | Candidate | Haku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_145 | Candidate | Kimimaro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_146 | Candidate | Sai |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_147 | Candidate | Kankuro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_148 | Candidate | Kimimaro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_149 | Candidate | Gaara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_150 | Candidate | Deidara |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_151 | Candidate | Ao |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_152 | Candidate | Sasori |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_153 | Candidate | Sasori |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_154 | Candidate | Kankuro [Great Ninja War] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_155 | Candidate | Hidan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_156 | Candidate | Pain -- Jigokudo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_157 | Candidate | Ukon Sakon |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_158 | Candidate | Pain -- Ningendo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_159 | Candidate | Kisame Hoshigaki |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_160 | Candidate | Chiyo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_161 | Candidate | Zabuza [Mist's Seven Swordsmen] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_162 | Candidate | Haku |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_163 | Candidate | Kimimaro |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_164 | Candidate | Neji Hyuga |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_165 | Candidate | Jugo |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_166 | Candidate | Kiba Inuzuka |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_167 | Candidate | Survival Trial |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_168 | Candidate | Ranked Battle |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_169 | Candidate | Ninja Task Room |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_170 | Candidate | By Exchanging for Credits/Points in Shops |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_171 | Candidate | Recruiting |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_172 | Candidate | By Exchanging for Credits/Points in Shops |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_173 | Candidate | Purchase with coupons or ingots |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_174 | Candidate | Bond Scroll |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_175 | Candidate | Meat Balls |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_176 | Candidate | Meat Balls / Purse |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch (merged)
+Q_177 | Candidate | Breakthrough Instances |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_178 | Candidate | Orochimaru [Konoha's Traitor] |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_179 | Candidate | Traitor |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_180 | Candidate | Group Funds |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_181 | Candidate | Rich Field |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_182 | Candidate | Ninja |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_183 | Candidate | Sparring |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_184 | Candidate | Wishing Tree |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_185 | Candidate | Change Class |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_186 | Candidate | Coins |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_187 | Candidate | King of Hell |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_188 | Candidate | Sage World Battlefields |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_189 | Candidate | Izanagi |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_190 | Candidate | Fukurokumaru |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_191 | Candidate | Anbu Instructor |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_192 | Candidate | Chidori Senbon |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_193 | Candidate | Water Style |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_194 | Candidate | Secret White Move -- Chikamatsu's 10 Puppets |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_195 | Candidate | Almighty Push |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_196 | Candidate | Sealing Jutsu -- Reaper Death Seal |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_197 | Candidate | Samehada |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_198 | Candidate | Madara Uchiha |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_199 | Candidate | Konan |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch
+Q_200 | Candidate | Sai |  |  | Not recorded | 2026-07-01 |  | 2026-07-01 | 1 | From 500-batch (split)
+================================================================
+END OF FILE 3A
+================================================================
